@@ -4,6 +4,14 @@
 
 不是文书生成器，也不替你判断谁担责——只做算术。
 
+## 安装
+
+```bash
+dsh plugin --profile web add @deepwhale-cn/dsh-legal-damages
+```
+
+装好后侧栏出现「法律·损害赔偿」，命令 `dsh-legal-damages` 也可直接用。
+
 ## 四类
 
 | 类型 | 算什么 | 关键口径 |
